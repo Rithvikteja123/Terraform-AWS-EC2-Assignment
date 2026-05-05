@@ -1,6 +1,6 @@
 # Terraform AWS EC2 Assignment
 
-## 📌 Objective
+## Objective
 
 The objective of this assignment is to understand Infrastructure as Code (IaC) using Terraform by creating and managing an AWS EC2 instance.
 
@@ -15,7 +15,7 @@ The objective of this assignment is to understand Infrastructure as Code (IaC) u
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 terraform-aws-assignment/
@@ -27,7 +27,7 @@ terraform-aws-assignment/
 
 ---
 
-## ⚙️ Configuration Details
+##  Configuration Details
 
 * **Provider**: AWS
 * **Region**: ap-south-1 (Mumbai)
@@ -37,7 +37,7 @@ terraform-aws-assignment/
 
 ---
 
-## 📄 Terraform Code Overview
+## Terraform Code Overview
 
 ### Provider Configuration
 
@@ -80,7 +80,7 @@ output "instance_public_ip" {
 
 ---
 
-## 🚀 Steps to Execute
+## Steps to Execute
 
 ### 1. Initialize Terraform
 
